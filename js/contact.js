@@ -24,3 +24,4 @@ function getContact(){
     alert("Gửi thành công! Chúng tôi sẽ phản hồi lại sau");
     window.location.reload();
 }
+//update
